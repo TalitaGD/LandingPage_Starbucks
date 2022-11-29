@@ -1,2 +1,2 @@
 # LandingPage_Starbucks
-Criando LP do Starbucks
+Criando Landing Page do Starbucks
